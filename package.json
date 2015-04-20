@@ -1,0 +1,19 @@
+{
+  "name": "shijun-npm-demo-pkg",
+  "version": "1.0.0",
+  "description": "Demo for npm package & install test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Demo",
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamshijun/helloworld.git"
+  },
+  "author": "iamshijun <aimysaber@gmail.com>",
+  "license": "ISC"
+}
